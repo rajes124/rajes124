@@ -1,51 +1,83 @@
-<img src="https://raw.githubusercontent.com/rajes124/rajes124/main/banner.png" alt="Banner" />
+# 👋 Hi, I’m Anonto Rishi
 
-<h1 align="center">Hi 👋, I'm Anonto Rishi</h1>
-<h3 align="center">Frontend Developer | MERN Stack Developer | Learning Full Stack</h3>
+![Banner](https://your-banner-link.com/banner.png)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rajes124&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+## 💻 Frontend & Full Stack Developer
 
-- 🔭 I’m currently working on MERN Stack projects  
-- 🌱 I’m exploring Next.js and advanced React  
-- 👨‍💻 All of my projects are available here on GitHub  
-- 💬 Ask me about React, Node.js, MongoDB, JavaScript  
-- 📫 Reach me at: rajesray307@gmail.com  
-- 📱 Phone: +8801407539879  
+I am a passionate web developer specializing in creating interactive and scalable web applications. I love exploring new technologies and building projects that solve real-world problems.
 
-### 🌐 Connect with me:
-<p align="center">
-  <a href="mailto:rajesray307@gmail.com">📧 Email</a> • 
-  <a href="tel:+8801407539879">📞 +8801407539879</a> • 
-  <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">🔗 LinkedIn</a>
-</p>
+---
 
-### 💻 Tech Stack:
+## 📝 Current Activities
+- 🌱 I am currently exploring **Next.js**  
+- 💻 Working on a **Tourism Website Project**  
+- 🧩 Learning **Advanced React & Node.js**  
 
-**Frontend**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+---
 
-**Backend & Database**  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+## 🛠 Skills
 
-**Tools**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
-### 📊 GitHub Stats
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rajes124&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rajes124&theme=dark"/>
-</p>
+### Tools & Other
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajes124&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
+---
+
+## 🔗 Social Links
+- [LinkedIn](https://www.linkedin.com/in/anonto_rishi)
+- [GitHub](https://github.com/anonto-rishi)
+- [Twitter](https://twitter.com/anonto_rishi)
+
+---
+
+## 📊 GitHub Stats
+![Anonto's GitHub stats](https://github-readme-stats.vercel.app/api?username=anonto-rishi&show_icons=true&theme=radical)
+
+---
+
+## 📌 Pinned Projects
+
+### 1. Tourism Website
+- **Description:** A responsive tourism website showcasing top destinations and travel guides.  
+- **Live Link:** [Tourism Website](https://tourism-website.example.com)  
+- **Technologies:** HTML, CSS, JavaScript, React, Node.js, MongoDB  
+- **Features:**  
+  - Dynamic destination listing  
+  - User reviews & ratings  
+  - Responsive design  
+
+### 2. Task Manager App
+- **Description:** Web app to manage daily tasks with CRUD operations and user authentication.  
+- **Live Link:** [Task Manager](https://taskmanager.example.com)  
+- **Technologies:** HTML, CSS, JavaScript, React, Node.js, MongoDB  
+- **Features:**  
+  - User login/signup  
+  - Create, edit, delete tasks  
+  - Responsive UI  
+
+### 3. Portfolio Website
+- **Description:** Personal portfolio showcasing projects and skills.  
+- **Live Link:** [Portfolio](https://portfolio.example.com)  
+- **Technologies:** HTML, CSS, JavaScript, React  
+- **Features:**  
+  - Project gallery  
+  - About me section  
+  - Contact form  
+
+---
+
+## 📫 Contact Me
+- **Email:** rajesray307@gmail.com  
+- **Phone:** 01407539879
