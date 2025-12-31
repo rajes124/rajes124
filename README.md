@@ -104,22 +104,26 @@ Responsive React application with Firebase authentication.
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajes124&show_icons=true&theme=github_dark&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=rajes124&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800"
+    height="170"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajes124&theme=github-dark&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com?user=rajes124&theme=dark&hide_border=true"
+    height="170"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajes124&layout=compact&theme=github_dark&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajes124&layout=compact&theme=dark&hide_border=true"
+    height="170"
+  />
 </p>
 
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=rajes124&theme=github-dark&hide_border=true" />
-</p>
-
----
 
 <p align="center">
   💼 Open to Internship & Junior Developer Opportunities <br/>
