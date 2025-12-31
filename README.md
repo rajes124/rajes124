@@ -101,28 +101,30 @@ Responsive React application with Firebase authentication.
 
 ---
 
+
 ## 📊 GitHub Statistics
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=rajes124&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800"
+    src="https://github-readme-stats.vercel.app/api?username=rajes124&show_icons=true&theme=dark&hide_border=true&v=2"
     height="170"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=rajes124&theme=dark&hide_border=true"
+    src="https://streak-stats.demolab.com?user=rajes124&theme=dark&hide_border=true&v=2"
     height="170"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajes124&layout=compact&theme=dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajes124&layout=compact&theme=dark&hide_border=true&v=2"
     height="170"
   />
 </p>
+
 
 
 <p align="center">
