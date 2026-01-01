@@ -42,7 +42,7 @@ Currently, I am sharpening my skills through hands-on projects and real-world im
 <p align="center">
   <a href="mailto:rajesray307@gmail.com">📧 Email</a> •
   <a href="https://github.com/rajes124">🐙 GitHub</a> •
-  <a href="https://linkedin.com/in/your-linkedin">🔗 LinkedIn</a>
+  <a href="www.linkedin.com/in/rajes-rishi">🔗 LinkedIn</a>
 </p>
 
 ---
