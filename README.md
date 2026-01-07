@@ -87,7 +87,7 @@ A premium learning & community platform with role-based dashboard and secure pay
 ### 🛒 Tech Gadget Import–Export Hub
 E-commerce management system with authentication and private routing.
 
-- 🌐 Live: https://remarkable-tanuki-7ac8b0.netlify.app  
+- 🌐 Live: thriving-dragon-b31ec0.netlify.app 
 - 💻 Client: https://github.com/rajes124/Tech-Gadget-Client-side  
 - ⚙️ Server: https://github.com/rajes124/Back-end-server  
 
