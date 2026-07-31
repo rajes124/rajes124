@@ -9,24 +9,24 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/user.svg" width="18" height="18" /> About Me
+### <img src="https://img.shields.io/badge/-About%20Me-007ACC?style=flat-square&logo=about.me&logoColor=white" height="24" />
 
-I am a passionate **Full Stack MERN Developer** focused on building modern, secure, and scalable web applications.  
-I enjoy transforming ideas into real-world products using **React, Node.js, and MongoDB**.  
-Currently, I am sharpening my skills through hands-on projects and real-world implementations.
-
----
-
-### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/bullseye.svg" width="18" height="18" /> Current Focus
-
-- Working on advanced MERN projects with **Stripe payment integration**
-- Exploring **Next.js & Cloud Deployment**
-- Improving backend architecture & REST API security
-- **Goal:** Become a production-level full-stack engineer
+I am a passionate **Full Stack MERN Developer** focused on building modern, secure, and scalable web applications[cite: 1].  
+I enjoy transforming ideas into real-world products using **React, Node.js, and MongoDB**[cite: 1].  
+Currently, I am sharpening my skills through hands-on projects and real-world implementations[cite: 1].
 
 ---
 
-### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/address-card.svg" width="18" height="18" /> Contact Information
+### <img src="https://img.shields.io/badge/-Current%20Focus-107C41?style=flat-square&logo=target&logoColor=white" height="24" />
+
+- Working on advanced MERN projects with **Stripe payment integration**[cite: 1]
+- Exploring **Next.js & Cloud Deployment**[cite: 1]
+- Improving backend architecture & REST API security[cite: 1]
+- **Goal:** Become a production-level full-stack engineer[cite: 1]
+
+---
+
+### <img src="https://img.shields.io/badge/-Contact%20Information-D14836?style=flat-square&logo=gmail&logoColor=white" height="24" />
 
 - **Email:** rajesray307@gmail.com[cite: 1]
 - **Phone:** +8801407539879[cite: 1]
@@ -34,7 +34,7 @@ Currently, I am sharpening my skills through hands-on projects and real-world im
 
 ---
 
-### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/link.svg" width="18" height="18" /> Connect with Me
+### <img src="https://img.shields.io/badge/-Connect%20With%20Me-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="24" />
 
 <p align="center">
   <a href="mailto:rajesray307@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -44,13 +44,12 @@ Currently, I am sharpening my skills through hands-on projects and real-world im
 
 ---
 
-## <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/code.svg" width="20" height="20" /> Tech Stack
+## <img src="https://img.shields.io/badge/-Tech%20Stack-61DAFB?style=flat-square&logo=react&logoColor=black" height="28" />
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
@@ -71,10 +70,10 @@ Currently, I am sharpening my skills through hands-on projects and real-world im
 
 ---
 
-## <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/folder-open.svg" width="20" height="20" /> Featured Projects
+## <img src="https://img.shields.io/badge/-Featured%20Projects-47A248?style=flat-square&logo=mongodb&logoColor=white" height="28" />
 
 ### Aura Botanical Archive (Full-Stack Luxury E-Commerce)
-An elite e-commerce architecture for premium botanical aesthetics, powered by React 19, TypeScript, Express, and Gemini AI Visual Search.
+An elite e-commerce architecture for premium botanical aesthetics, powered by React 19, Express, Node.js, and Gemini AI Visual Search[cite: 1].
 
 - **Live:** https://aura-botanical-project.vercel.app[cite: 1]
 - **Repository:** https://github.com/rajes124/Aura-botanical-Project
@@ -82,32 +81,32 @@ An elite e-commerce architecture for premium botanical aesthetics, powered by Re
 ---
 
 ### Student Life Lessons (MERN + Stripe)
-A premium learning & community platform with role-based dashboard and secure payments.
+A premium learning & community platform with role-based dashboard and secure payments[cite: 1].
 
 - **Live:** https://student-life-lessons.web.app[cite: 1]
-- **Client Code:** https://github.com/rajes124/Student-life-lessons-Clint-side  
-- **Server Code:** https://github.com/rajes124/Lessons-backend  
+- **Client Code:** https://github.com/rajes124/Student-life-lessons-Clint-side[cite: 1]  
+- **Server Code:** https://github.com/rajes124/Lessons-backend[cite: 1]  
 
 ---
 
 ### Tech Gadget Import–Export Hub
-E-commerce management system with authentication and private routing.
+E-commerce management system with authentication and private routing[cite: 1].
 
-- **Live:** https://thriving-dragon-b31ec0.netlify.app  
-- **Client Code:** https://github.com/rajes124/Tech-Gadget-Client-side  
-- **Server Code:** https://github.com/rajes124/Back-end-server  
+- **Live:** https://thriving-dragon-b31ec0.netlify.app[cite: 1]  
+- **Client Code:** https://github.com/rajes124/Tech-Gadget-Client-side[cite: 1]  
+- **Server Code:** https://github.com/rajes124/Back-end-server[cite: 1]  
 
 ---
 
 ### GreenNest – Indoor Plant Store
-Responsive React application with Firebase authentication.
+Responsive React application with Firebase authentication[cite: 1].
 
-- **Live:** https://fascinating-torte-32ae71.netlify.app  
-- **Repository:** https://github.com/rajes124/Home-Dec  
+- **Live:** https://fascinating-torte-32ae71.netlify.app[cite: 1]  
+- **Repository:** https://github.com/rajes124/Home-Dec[cite: 1]  
 
 ---
 
-## <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/chart-line.svg" width="20" height="20" /> GitHub Statistics
+## <img src="https://img.shields.io/badge/-GitHub%20Stats-E34F26?style=flat-square&logo=github&logoColor=white" height="28" />
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rajes124&show_icons=true&theme=dark&hide_border=true&v=2" height="170" />
