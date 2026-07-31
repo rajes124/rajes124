@@ -28,7 +28,7 @@ Currently, I am sharpening my skills through hands-on projects and real-world im
 
 ### <img src="https://img.shields.io/badge/-Contact%20Information-D14836?style=flat-square&logo=gmail&logoColor=white" height="24" />
 
-- **Email:** [rajesray307@gmail.com](mailto:rajesray307@gmail.com)
+- **Email:** <a href="mailto:rajesray307@gmail.com">rajesray307@gmail.com</a>
 - **Phone:** +8801407539879
 - **Location:** Mymensingh, Netrakona, Bangladesh
 
@@ -37,9 +37,9 @@ Currently, I am sharpening my skills through hands-on projects and real-world im
 ### <img src="https://img.shields.io/badge/-Connect%20With%20Me-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="24" />
 
 <p align="center">
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajesray307@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajes124)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajes-rishi)
+  <a href="mailto:rajesray307@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/rajes124" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/rajes-rishi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ---
@@ -75,49 +75,49 @@ Currently, I am sharpening my skills through hands-on projects and real-world im
 ### Aura Botanical Archive (Full-Stack Luxury E-Commerce)
 An elite e-commerce architecture for premium botanical aesthetics, powered by React 19, Express, Node.js, and Gemini AI Visual Search.
 
-- **Live:** [aura-botanical-project.vercel.app](https://aura-botanical-project.vercel.app)
-- **Repository:** [github.com/rajes124/Aura-botanical-Project](https://github.com/rajes124/Aura-botanical-Project)
+- **Live:** <a href="https://aura-botanical-project.vercel.app" target="_blank">aura-botanical-project.vercel.app</a>
+- **Repository:** <a href="https://github.com/rajes124/Aura-botanical-Project" target="_blank">github.com/rajes124/Aura-botanical-Project</a>
 
 ---
 
 ### Student Life Lessons (MERN + Stripe)
 A premium learning & community platform with role-based dashboard and secure payments.
 
-- **Live:** [student-life-lessons.web.app](https://student-life-lessons.web.app)
-- **Client Code:** [github.com/rajes124/Student-life-lessons-Clint-side](https://github.com/rajes124/Student-life-lessons-Clint-side)  
-- **Server Code:** [github.com/rajes124/Lessons-backend](https://github.com/rajes124/Lessons-backend)  
+- **Live:** <a href="https://student-life-lessons.web.app" target="_blank">student-life-lessons.web.app</a>
+- **Client Code:** <a href="https://github.com/rajes124/Student-life-lessons-Clint-side" target="_blank">github.com/rajes124/Student-life-lessons-Clint-side</a>  
+- **Server Code:** <a href="https://github.com/rajes124/Lessons-backend" target="_blank">github.com/rajes124/Lessons-backend</a>  
 
 ---
 
 ### Tech Gadget Import–Export Hub
 E-commerce management system with authentication and private routing.
 
-- **Live:** [thriving-dragon-b31ec0.netlify.app](https://thriving-dragon-b31ec0.netlify.app)  
-- **Client Code:** [github.com/rajes124/Tech-Gadget-Client-side](https://github.com/rajes124/Tech-Gadget-Client-side)  
-- **Server Code:** [github.com/rajes124/Back-end-server](https://github.com/rajes124/Back-end-server)  
+- **Live:** <a href="https://thriving-dragon-b31ec0.netlify.app" target="_blank">thriving-dragon-b31ec0.netlify.app</a>  
+- **Client Code:** <a href="https://github.com/rajes124/Tech-Gadget-Client-side" target="_blank">github.com/rajes124/Tech-Gadget-Client-side</a>  
+- **Server Code:** <a href="https://github.com/rajes124/Back-end-server" target="_blank">github.com/rajes124/Back-end-server</a>  
 
 ---
 
 ### GreenNest – Indoor Plant Store
 Responsive React application with Firebase authentication.
 
-- **Live:** [fascinating-torte-32ae71.netlify.app](https://fascinating-torte-32ae71.netlify.app)  
-- **Repository:** [github.com/rajes124/Home-Dec](https://github.com/rajes124/Home-Dec)  
+- **Live:** <a href="https://fascinating-torte-32ae71.netlify.app" target="_blank">fascinating-torte-32ae71.netlify.app</a>  
+- **Repository:** <a href="https://github.com/rajes124/Home-Dec" target="_blank">github.com/rajes124/Home-Dec</a>  
 
 ---
 
 ## <img src="https://img.shields.io/badge/-GitHub%20Stats-E34F26?style=flat-square&logo=github&logoColor=white" height="28" />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajes124&show_icons=true&theme=dark&hide_border=true&v=2" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rajes124&show_icons=true&theme=dark&hide_border=true" height="170" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rajes124&theme=dark&hide_border=true&v=2" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajes124&theme=dark&hide_border=true" height="170" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajes124&layout=compact&theme=dark&hide_border=true&v=2" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rajes124&layout=compact&theme=dark&hide_border=true" height="170" alt="Top Languages" />
 </p>
 
 ---
