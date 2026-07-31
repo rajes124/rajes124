@@ -11,35 +11,35 @@
 
 ### <img src="https://img.shields.io/badge/-About%20Me-007ACC?style=flat-square&logo=about.me&logoColor=white" height="24" />
 
-I am a passionate **Full Stack MERN Developer** focused on building modern, secure, and scalable web applications[cite: 1].  
-I enjoy transforming ideas into real-world products using **React, Node.js, and MongoDB**[cite: 1].  
-Currently, I am sharpening my skills through hands-on projects and real-world implementations[cite: 1].
+I am a passionate **Full Stack MERN Developer** focused on building modern, secure, and scalable web applications.  
+I enjoy transforming ideas into real-world products using **React, Node.js, and MongoDB**.  
+Currently, I am sharpening my skills through hands-on projects and real-world implementations.
 
 ---
 
 ### <img src="https://img.shields.io/badge/-Current%20Focus-107C41?style=flat-square&logo=target&logoColor=white" height="24" />
 
-- Working on advanced MERN projects with **Stripe payment integration**[cite: 1]
-- Exploring **Next.js & Cloud Deployment**[cite: 1]
-- Improving backend architecture & REST API security[cite: 1]
-- **Goal:** Become a production-level full-stack engineer[cite: 1]
+- Working on advanced MERN projects with **Stripe payment integration**
+- Exploring **Next.js & Cloud Deployment**
+- Improving backend architecture & REST API security
+- **Goal:** Become a production-level full-stack engineer
 
 ---
 
 ### <img src="https://img.shields.io/badge/-Contact%20Information-D14836?style=flat-square&logo=gmail&logoColor=white" height="24" />
 
-- **Email:** rajesray307@gmail.com[cite: 1]
-- **Phone:** +8801407539879[cite: 1]
-- **Location:** Mymensingh, Netrakona, Bangladesh[cite: 1]
+- **Email:** [rajesray307@gmail.com](mailto:rajesray307@gmail.com)
+- **Phone:** +8801407539879
+- **Location:** Mymensingh, Netrakona, Bangladesh
 
 ---
 
 ### <img src="https://img.shields.io/badge/-Connect%20With%20Me-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="24" />
 
 <p align="center">
-  <a href="mailto:rajesray307@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/rajes124"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/rajes-rishi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajesray307@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajes124)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajes-rishi)
 </p>
 
 ---
@@ -73,36 +73,36 @@ Currently, I am sharpening my skills through hands-on projects and real-world im
 ## <img src="https://img.shields.io/badge/-Featured%20Projects-47A248?style=flat-square&logo=mongodb&logoColor=white" height="28" />
 
 ### Aura Botanical Archive (Full-Stack Luxury E-Commerce)
-An elite e-commerce architecture for premium botanical aesthetics, powered by React 19, Express, Node.js, and Gemini AI Visual Search[cite: 1].
+An elite e-commerce architecture for premium botanical aesthetics, powered by React 19, Express, Node.js, and Gemini AI Visual Search.
 
-- **Live:** https://aura-botanical-project.vercel.app[cite: 1]
-- **Repository:** https://github.com/rajes124/Aura-botanical-Project
+- **Live:** [aura-botanical-project.vercel.app](https://aura-botanical-project.vercel.app)
+- **Repository:** [github.com/rajes124/Aura-botanical-Project](https://github.com/rajes124/Aura-botanical-Project)
 
 ---
 
 ### Student Life Lessons (MERN + Stripe)
-A premium learning & community platform with role-based dashboard and secure payments[cite: 1].
+A premium learning & community platform with role-based dashboard and secure payments.
 
-- **Live:** https://student-life-lessons.web.app[cite: 1]
-- **Client Code:** https://github.com/rajes124/Student-life-lessons-Clint-side[cite: 1]  
-- **Server Code:** https://github.com/rajes124/Lessons-backend[cite: 1]  
+- **Live:** [student-life-lessons.web.app](https://student-life-lessons.web.app)
+- **Client Code:** [github.com/rajes124/Student-life-lessons-Clint-side](https://github.com/rajes124/Student-life-lessons-Clint-side)  
+- **Server Code:** [github.com/rajes124/Lessons-backend](https://github.com/rajes124/Lessons-backend)  
 
 ---
 
 ### Tech Gadget Import–Export Hub
-E-commerce management system with authentication and private routing[cite: 1].
+E-commerce management system with authentication and private routing.
 
-- **Live:** https://thriving-dragon-b31ec0.netlify.app[cite: 1]  
-- **Client Code:** https://github.com/rajes124/Tech-Gadget-Client-side[cite: 1]  
-- **Server Code:** https://github.com/rajes124/Back-end-server[cite: 1]  
+- **Live:** [thriving-dragon-b31ec0.netlify.app](https://thriving-dragon-b31ec0.netlify.app)  
+- **Client Code:** [github.com/rajes124/Tech-Gadget-Client-side](https://github.com/rajes124/Tech-Gadget-Client-side)  
+- **Server Code:** [github.com/rajes124/Back-end-server](https://github.com/rajes124/Back-end-server)  
 
 ---
 
 ### GreenNest – Indoor Plant Store
-Responsive React application with Firebase authentication[cite: 1].
+Responsive React application with Firebase authentication.
 
-- **Live:** https://fascinating-torte-32ae71.netlify.app[cite: 1]  
-- **Repository:** https://github.com/rajes124/Home-Dec[cite: 1]  
+- **Live:** [fascinating-torte-32ae71.netlify.app](https://fascinating-torte-32ae71.netlify.app)  
+- **Repository:** [github.com/rajes124/Home-Dec](https://github.com/rajes124/Home-Dec)  
 
 ---
 
